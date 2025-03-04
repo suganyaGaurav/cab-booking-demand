@@ -1,0 +1,8 @@
+# requirements.txt (Dependencies)
+"""
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+"""
